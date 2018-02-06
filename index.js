@@ -22,6 +22,6 @@ if (shoutstring.toUpperCase() === string) {
    console.log("I love you,too.") 
 }
 else if (mixedCase.toLowerCase() === mixedCase) {
-  console.log("I love you, Grandma.")
+  console.log("I love you, too.")
 }
 }
