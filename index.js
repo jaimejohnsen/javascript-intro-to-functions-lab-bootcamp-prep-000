@@ -15,7 +15,7 @@ function sayHiToGrandma(string){
 if (shout(string) === string) {
   console.log("YES INDEED!")
 } else if (whisper(string) === string);{
-  console.log(whisper(string); 
+  console.log(whisper(string) 
 } else (mixedCase.toUpperCase() === mixedCase);{console.log("I love you,Grandma.") // false
 
 }
