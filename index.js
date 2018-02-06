@@ -19,7 +19,7 @@ if (shout(string) === string) {
   console.log("I can't hear you.")
 }
  else if (mixedCase.toUpperCase() === mixedCase) {
-   console.log("I love you,Grandma.") 
+   console.log("I love you,too.") 
 }
 else if (mixedCase.toLowerCase() === mixedCase) {
   console.log("I love you, Grandma.")
