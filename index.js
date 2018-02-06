@@ -24,4 +24,3 @@ if (shout(string) === string) {
 else if (mixedCase.toLowerCase() === mixedCase) {
   console.log("I love you, Grandma.")
 }
-}
