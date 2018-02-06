@@ -18,5 +18,10 @@ if (shout(string) === string) {
  else if (whisper(string) === string) { 
   console.log("I can't hear you.")
 }
- else if (mixedCase.toUpperCase() === mixedCase)   {console.log("I love you,Grandma.") 
+ else if (mixedCase.toUpperCase() === mixedCase) {
+   console.log("I love you,Grandma.") 
+}
+else if (mixedCase.toLowerCase() === mixedCase) {
+  console.log("I love you, Grandma.")
+}
 }
