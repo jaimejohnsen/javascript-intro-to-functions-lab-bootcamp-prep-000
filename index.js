@@ -17,5 +17,4 @@ if (shout(string) === string) {
 } else if (whisper(string) === string) { 
   console.log(whisper(string) 
 } else (mixedCase.toUpperCase() === mixedCase)   {console.log("I love you,Grandma.") // false
-
 }
